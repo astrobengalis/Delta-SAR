@@ -76,12 +76,12 @@ DeltaSAR integrates multi-source geospatial data into a unified pipeline:
 
 | Member Name | Role & Specialization | Background & Affiliation |
 | :--- | :--- | :--- |
-| **Muhammad Safiullah Ibn Motahar (Safiullah)** | **Team Lead**<br>Technology & Satellite Planning | Assistant Manager (Tech Planning & Implementation), Bangladesh Satellite Company Limited (BSCL). Former Project Control Manager (South Asia) in global telco. |
-| **Mayesha** | **Socio-Economic Analyst**<br>Economic & Community Impact | Master's in Economics, University of Dhaka. |
-| **Earth Observation & SAR Specialist** | **Remote Sensing & AI Lead**<br>GIS, SAR Analysis & AI | Satellite Technology Development Specialist for Bangladesh's Earth Observation (AIS, Comms) satellites. |
-| **Wadud Rahman** | **Data Science & ML Lead**<br>Explainable AI & Risk Models | Computer Science Student, United International University (UIU). Specialist in explainable ML and risk prediction models. |
-| **Tajwar Tazit Tani** | **Software & Visualization Lead**<br>Frontend & Data Visualization | 3rd Year Computer Science & Engineering Student, University of Dhaka. NASA Space Apps software developer and visualization expert. |
-| **Muhammad Salahuddin (Salah / Sami)** | **Systems & Engineering Lead**<br>Mechatronics & Embedded Systems | 3rd Year Mechatronics Engineering Student, Universiti Teknologi Malaysia (UTM). Robotics & systems specialist. |
+| **Muhammad Safiullah Bin Motahar (Safiullah)** | **Team Lead**<br>Technology & Satellite Planning | Assistant Manager (Tech Planning & Implementation), Bangladesh Satellite Company Limited (BSCL). Former Project Control Manager (South Asia) in global telco. |
+| **Muaza Munir** | **Socio-Economic Analyst**<br>Economic & Community Impact | Master's in Economics, University of Dhaka. |
+| **Mohammad Ehsan** | **Remote Sensing & AI Lead**<br>GIS, SAR Analysis & AI | Satellite Technology Development Specialist for Bangladesh's Earth Observation (AIS, Comms) satellites. |
+| **Wadiel Rahman** | **Data Science & ML Lead**<br>Explainable AI & Risk Models | Computer Science Student, United International University (UIU). Specialist in explainable ML and risk prediction models. |
+| **Tajwar Tahjir Tanzim** | **Software & Visualization Lead**<br>Frontend & Data Visualization | 3rd Year Computer Science & Engineering Student, University of Dhaka. NASA Space Apps software developer and visualization expert. |
+| **Muhammad Sanaullah Bin Motahar** | **Systems & Engineering Lead**<br>Mechatronics & Embedded Systems | 3rd Year Mechatronics Engineering Student, Universiti Teknologi Malaysia (UTM). Robotics & systems specialist. |
 
 ---
 
@@ -121,7 +121,7 @@ DeltaSAR integrates multi-source geospatial data into a unified pipeline:
 
 * **NASA Space Apps Challenge** for the competition platform and inspiration.
 * **NASA NISAR Mission** for open Synthetic Aperture Radar (SAR) data access.
-* **Bangladesh Satellite Company Limited (BSCL)** & academic institutions (University of Dhaka, UIU, UTM) for supporting research and technology development.
+
 
 ---
 *Developed by **Team Astro Bengalis** for Bangladesh and vulnerable riverine communities worldwide.*
