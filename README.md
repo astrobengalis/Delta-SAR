@@ -80,7 +80,7 @@ DeltaSAR integrates multi-source geospatial data into a unified pipeline:
 | **Muaza Munir** | **Socio-Economic Analyst**<br>Economic & Community Impact | Master's in Economics, University of Dhaka. |
 | **Mohammad Ehsan** | **Remote Sensing & AI Lead**<br>GIS, SAR Analysis & AI | Satellite Technology Development Specialist for Bangladesh's Earth Observation (AIS, Comms) satellites. |
 | **Wadiel Rahman** | **Data Science & ML Lead**<br>Explainable AI & Risk Models | Computer Science Student, United International University (UIU). Specialist in explainable ML and risk prediction models. |
-| **Tajwar Tahjir Tanzim** | **Software & Visualization Lead**<br>Frontend & Data Visualization | 3rd Year Computer Science & Engineering Student, University of Dhaka. NASA Space Apps software developer and visualization expert. |
+| **Tajwar Tahjir Tansim** | **Software & Visualization Lead**<br>Frontend & Data Visualization | 3rd Year Computer Science & Engineering Student, University of Dhaka. NASA Space Apps software developer and visualization expert. |
 | **Muhammad Sanaullah Bin Motahar** | **Systems & Engineering Lead**<br>Mechatronics & Embedded Systems | 3rd Year Mechatronics Engineering Student, Universiti Teknologi Malaysia (UTM). Robotics & systems specialist. |
 
 ---
